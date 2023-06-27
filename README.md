@@ -16,4 +16,5 @@ Using this equation, I compared it to the actual value and made signals based on
 long, or hold (not trade). I repeat this entire process for each day within my window. I subtract a 0.1% transaction fee for each transaction
 made. 
 
-Finally, I use Matplotlib to plot the gross and net returns.
+Finally, I use Matplotlib to plot the gross and net returns. I also demonstrate the effectiveness of my model compared to the overall market.
+I chose SPY to represent the market as it tracks the S&P 500 and is a reputable ETF. My alpha value ended up being 1.3.
