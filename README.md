@@ -17,4 +17,9 @@ long, or hold (not trade). I repeat this entire process for each day within my w
 made. 
 
 Finally, I use Matplotlib to plot the gross and net returns. I also demonstrate the effectiveness of my model compared to the overall market.
-I chose SPY to represent the market as it tracks the S&P 500 and is a reputable ETF. My alpha value ended up being 1.3.
+I chose SPY to represent the market as it tracks the S&P 500 and is a reputable ETF. 
+
+
+![image](https://github.com/yshah41/PairsTrading/assets/109880393/6b9318bc-046d-4a56-9cda-be3028e972d9)
+
+
